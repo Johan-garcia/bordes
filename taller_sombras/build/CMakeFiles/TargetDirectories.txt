@@ -1,0 +1,3 @@
+/home/johan/taller_sombras/build/CMakeFiles/taller_sombras.dir
+/home/johan/taller_sombras/build/CMakeFiles/edit_cache.dir
+/home/johan/taller_sombras/build/CMakeFiles/rebuild_cache.dir
